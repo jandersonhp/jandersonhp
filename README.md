@@ -1,4 +1,4 @@
-## Olá! Me chamo Janderson Duarte.
+# Olá! Me chamo Janderson Duarte.
 # 📖 Atualmente cursando CST em Análise e Desenvolvimento de Sistemas e iniciando nessa jornada de mudança de carreira para a T.I.
 
 ## Estou aprendendo
