@@ -1,5 +1,5 @@
 <h1 align="center">👨🏻‍💻 Olá! Me chamo Janderson Duarte, desde 1996.</h1>
-<h3 align="center">📖 Cursando CST em Análise e Desenvolvimento de Sistemas. <br>
+<h3>📖 Cursando CST em Análise e Desenvolvimento de Sistemas. <br>
 🧰 Atualmente trabalho com logística. <br>
 💻 Migrando para T.I</h3>
 <br><br>
