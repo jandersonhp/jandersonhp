@@ -2,15 +2,14 @@
 <h3>📖 Cursando CST em Análise e Desenvolvimento de Sistemas. <br>
 🧰 Atualmente trabalho com logística. <br>
 💻 Migrando para T.I</h3>
-<br><br>
+<br>
 <h2>📚 Habilidades</h2>
 <h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-    
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jandersonhp&show_icons=true&theme=dark&locale=en&layout=compact" alt="jandersonhp" /></p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jandersonhp&show_icons=true&theme=dark&locale=en&layout=compact" alt="jandersonhp" /></p>
 </h3>
 <br>
 <h2>#️⃣🔗 Redes Sociais</h2>
