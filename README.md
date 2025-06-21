@@ -13,9 +13,15 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jandersonhp&show_icons=true&theme=dark&locale=en&layout=compact" alt="jandersonhp" /></p>
 </h3>
 <br>
+<h2>🛠️ Pequenos Projetos</h2>
+<h3>
+🔐 <a href="https://github.com/jandersonhp/BNavalCrypto">BNavalCrypto</a> - Encriptador/Decriptador alfanumérico.<br>
+💰 <a href="https://github.com/jandersonhp/ExtratoCarteiraBot">ExtratoCarteiraBot</a> - Bot Telegram para organização simples de carteira.
+<br><br>
 <h2>#️⃣🔗 Redes Sociais</h2>
 <h3>
 <a href="https://www.facebook.com/jyriver/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/960px-Facebook_f_logo_%282019%29.svg.png" width="40" height"40"></a>
 <a href="https://www.linkedin.com/in/jandersonduarteabr/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" width="40" height"40"></a>
 <a href="https://www.instagram.com/jandao1403/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height"40"></a>
 </h3>
+
