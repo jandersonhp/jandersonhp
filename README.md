@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <br><br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jandersonhp&show_icons=true&theme=dark&locale=en&layout=compact&count_private=true"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jandersonhp&show_icons=true&theme=dark&count_private=true&layout=compact"/></p>
 </h3>
 <br>
 <h2>🛠️ Pequenos Projetos</h2>
