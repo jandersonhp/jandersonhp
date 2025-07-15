@@ -16,8 +16,8 @@
 <h2>🛠️ Pequenos Projetos</h2>
 <h3>
 🌐 <a href="https://jandersonhp.github.io/">GitHub Pages</a> - Site Pelo GitHub Pages <<a href="https://github.com/jandersonhp/jandersonhp.github.io">Repositório</a>><br>
-🔐 <a href="https://bnavalcrypto.onrender.com/">BNavalCrypto</a> - Encriptador/Decriptador alfanumérico <<a href="https://github.com/jandersonhp/BNavalCrypto">Repositório</a>><br>
-🤖 <a href="https://github.com/jandersonhp/ExtratoCarteiraBot">ExtratoCarteiraBot</a> - Bot Telegram para organização simples de carteira <<a href="https://t.me/extcart_bot">Link pro BOT</a>><br>
+🔐 <a href="https://github.com/jandersonhp/BNavalCrypto">BNavalCrypto</a> - Encriptador/Decriptador alfanumérico <<a href="https://bnavalcrypto.onrender.com/">Link Pro Site</a>><br>
+🤖 <a href="https://github.com/jandersonhp/ExtratoCarteiraBot">ExtratoCarteiraBot</a> - Bot Telegram para organização simples de carteira <<a href="https://t.me/extcart_bot">Link Pro BOT</a>><br>
 <br><br>
 <h2>#️⃣🔗 Redes Sociais</h2>
 <h3>
