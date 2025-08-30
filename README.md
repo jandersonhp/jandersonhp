@@ -20,7 +20,7 @@
 🔐 <a href="https://github.com/jandersonhp/BNavalCrypto">BNavalCrypto</a> - Encriptador/Decriptador alfanumérico <<a href="https://bnavalcrypto.onrender.com/">Link Pro Site</a>><br>
 🤖 <a href="https://github.com/jandersonhp/ExtratoCarteiraBot">ExtratoCarteiraBot</a> - Bot Telegram para organização simples de carteira.<br>
 🗂 <a href="https://github.com/jandersonhp/OrganizadorArquivosPy">OrganizadorArquivosPy</a> - Organizador de Arquivos em Python.<br>
-🚌 <a href="https://github.com/jandersonhp/fretado-tracker">FretadoTracker</a> - Site para ver localização do Fretado. <<a href="https://jandersonhp.github.io/fretado-tracker/">Links Pro Site></a><br>
+🚌 <a href="https://github.com/jandersonhp/fretado-tracker">FretadoTracker</a> - Site para acompanhar localização do Fretado. <<a href="https://jandersonhp.github.io/fretado-tracker/">Links Pro Site></a><br>
 <br><br>
 <h2>#️⃣🔗 Redes Sociais</h2>
 <h3>
