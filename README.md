@@ -16,7 +16,7 @@
 <br>
 <h2>🛠️ Pequenos Projetos</h2>
 <h3>
-<!--- 🌐 <a href="https://jandersonhp.github.io/">GitHub Pages</a> - Site Pelo GitHub Pages <<a href="https://github.com/jandersonhp/jandersonhp.github.io">Repositório</a>><br> --->
+🌐 <a href="https://jandersonhp.github.io/DevlinkJnd/">DevlinkJnd</a> - Meu portfólio de links e projetos <br>
 🔐 <a href="https://github.com/jandersonhp/BNavalCrypto">BNavalCrypto</a> - Encriptador/Decriptador alfanumérico <<a href="https://bnavalcrypto.onrender.com/">Link Pro Site</a>><br>
 🤖 <a href="https://github.com/jandersonhp/ExtratoCarteiraBot">ExtratoCarteiraBot</a> - Bot Telegram para organização simples de carteira.<br>
 🗂 <a href="https://github.com/jandersonhp/OrganizadorArquivosPy">OrganizadorArquivosPy</a> - Organizador de Arquivos em Python.<br>
