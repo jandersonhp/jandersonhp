@@ -2,7 +2,11 @@
 <h3>📖 Cursando CST em Análise e Desenvolvimento de Sistemas. <br>
 🧰 Atualmente trabalho com logística. <br>
 💻 Migrando para T.I</h3>
+
+![Backend](https://img.shields.io/badge/Backend-Em%20Formação-brightgreen)
+![Migrando para TI](https://img.shields.io/badge/Carreira-Migrando%20para%20TI-informational)
 <br>
+
 <h2>📚 Habilidades</h2>
 <h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
@@ -11,6 +15,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
 <br><br>
+  
+![Python](https://img.shields.io/badge/Python-Estudando-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-Estudando-red?logo=openjdk)
+
+![HTML5](https://img.shields.io/badge/HTML5-Básico-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Básico-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Básico-yellow?logo=javascript)
+
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jandersonhp&show_icons=true&theme=dark&count_private=true&layout=compact"/></p> -->
 </h3>
 <br>
