@@ -11,7 +11,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
 <br><br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jandersonhp&show_icons=true&theme=dark&count_private=true&layout=compact"/></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jandersonhp&show_icons=true&theme=dark&count_private=true&layout=compact"/></p> -->
 </h3>
 <br>
 <h2>🛠️ Pequenos Projetos</h2>
