@@ -28,7 +28,7 @@
 <br>
 <h2>🛠️ Pequenos Projetos</h2>
 <h3>
-🌐 <a href="https://jandersonhp.github.io/">Portfólio</a> - Meu portfólio de links e projetos <br>
+🌐 <a href="https://jandersonhp.github.io/DevlinkJnd">DevLink</a> - Linktree com projetos e redes sociais. <br>
 🔐 <a href="https://github.com/jandersonhp/BNavalCrypto">BNavalCrypto</a> - Encriptador/Decriptador alfanumérico <<a href="https://bnavalcrypto.onrender.com/">Link Pro Site</a>><br>
 🤖 <a href="https://github.com/jandersonhp/ExtratoCarteiraBot">ExtratoCarteiraBot</a> - Bot Telegram para organização simples de carteira.<br>
 💰 <a href="https://github.com/jandersonhp/finance_manager">Finance Manager</a> - Sistema completo de gerenciamento financeiro pessoal em Python, com carteira, cartões e despesas sincronizados automaticamente.<br>
